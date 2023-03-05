@@ -20,4 +20,5 @@ Master's Student at University of Maryland, College Park
 
 #### Tom Holand's face imposed on Jimmy Falon's face
 
-![Screenshot from 2023-03-05 02-37-41](https://user-images.githubusercontent.com/78075049/222948221-9bab1cb8-09e8-4192-b732-4c3b321b7ccf.png)
+![faceswap](https://user-images.githubusercontent.com/78075049/222948255-f5d3efc5-ee36-4d85-b97c-25e805f171ee.png)
+
